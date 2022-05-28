@@ -1,4 +1,7 @@
 # Github Profile Viewer
+
+![demo](./static/screenshot-abc-githubviewer.png)
+
 Made with Nuxtjs and WindiCSS.
 
 # Features
