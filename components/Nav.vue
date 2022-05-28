@@ -5,7 +5,7 @@
         href="https://github.com/mehmetali345dev/github-profile-viewer"
         title="Developer"
         class="hover:(transition ease-in-out duration-300 text-red-600) md:text-xl text-lg font-bold"
-      >Github Profile Viewer</a>
+      >Check out a Github Pofile Viewee</a>
       <nuxt-link to="/" class="bg-gray-700 p-2 rounded-md font-bold" v-if="$route.params.user">Go back</nuxt-link>
     </div>
   </div>
